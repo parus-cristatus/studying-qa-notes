@@ -1,2 +1,1 @@
-# studying-qa-notes
-This repository contains  Python scripts and notebooks that might be useful while learning software testing
+В репозиторий скидываю материалы, которые могут быть полезны при изучении тестирования
